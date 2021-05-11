@@ -6,3 +6,6 @@
 
 ## Summary
 I have only basic programming knowledge and experience. I want to improve my skills so I can become an Android developer.
+
+## English
+A2
